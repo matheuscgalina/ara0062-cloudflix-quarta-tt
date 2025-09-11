@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
+
+.h2-bemvindo {
+  font-family: Arial;
+  color: crimson;
+}
+
+.botao-enviar {
+  font-family: 'Poppins', sans-serif;
+}
+
+.botao-enviar:hover {
+  background-color: green;
+  color: white;
+}
+
+p {
+  font-family: Georgia;
+  text-align: justify;
+  color: darkred;
+}
+
+.texto-do-rodape {
+  color: darkgray;
+  font-weight: bold;
+  font-size: smaller;
+  font-family: Arial;
+}
+
+#nav-equipe {
+  background-color: cadetblue;
+  font-style: italic;
+  font-family: Verdana;
+  color: white;
+}
